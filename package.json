@@ -1,0 +1,19 @@
+{
+  "name": "edulib-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/edulib/edulib-tools.git"
+  },
+  "author": "Éric Hervé <eric.herve@edulib.fr>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/edulib/edulib-tools#readme",
+  "dependencies": {
+    "remove-accents": "^0.3.0"
+  }
+}
