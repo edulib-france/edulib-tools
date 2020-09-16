@@ -8,11 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/edulib/edulib-tools.git"
+    "url": "git+ssh://git@github.com/edulib-france/edulib-tools.git"
   },
-  "author": "Éric Hervé <eric.herve@edulib.fr>",
+  "author": "Edulib",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/edulib/edulib-tools#readme",
   "dependencies": {
     "remove-accents": "^0.3.0"
   }
